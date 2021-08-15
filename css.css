@@ -1,0 +1,293 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face{ src: url("font/Prompt-Bold.ttf");font-family: trangchu;
+	
+	
+}
+*{
+margin: 0;	
+padding: 0;
+}
+h1,h3{
+	font-family: h1h3;
+	color: aliceblue;
+}
+p{
+	font-family: trangchu;
+	font-size: 32px;
+	color: aliceblue;
+}
+a{
+	text-decoration:none;
+	
+}
+a1{
+	text-decoration:none;
+	color: aliceblue;
+	float: right;
+	margin-right: 20px;
+}
+.clear{
+	clear: both}
+#wrapper{
+	width: 100%;
+}
+
+.container{
+	width: 1400px;
+	height: 300px;
+	margin: 0 auto;
+	
+}
+.container-2{
+	width: 1400px;
+	height: 900px;
+	margin: 0 auto;
+	
+}
+.header{
+	width: 100%;
+	height: 1000px;
+	background:#FF0004 ;
+	margin:0 auto;
+}
+.logo{
+	width:20%;
+	height: 200px;
+	float: left;
+	
+}
+.logo img{
+	margin: 50px;
+}
+.nav{
+	width: 100%;
+	height: 50px;
+
+	
+	margin-top: 50px;
+	
+}
+.nav ul{
+	list-style:none;
+	text-align: center;
+	font-size: 20px;
+	
+}
+.nav li{
+	display: inline-block;
+	margin: 0px 60px;
+	line-height: 40px;
+	font-size: 20px;
+	
+}
+
+
+.banner{
+	width: 100%;
+	height: 700px;
+	background: url("img/one-piece-intro.png");
+	background-repeat: no-repeat; 
+	background-size: cover;
+	margin: 0 auto;
+}
+.main{
+	width: 100%;
+	height:2100px;
+	background: 
+#D6D9B3}
+.box-1{
+	width: 100%;
+	height: 100px;
+	background:#DC0003 ;
+
+}
+.tile{
+	width: 500px;
+	height: 60px;;
+	margin: 0px 20px 0px 20px;
+
+}
+.box-sukien{
+	width: 100%;
+	height: 100px;
+	background:#DC0003 ;
+}
+.tile-sukien{
+	width: 500px;
+	height: 60px;
+	margin: 0px 20px 0px 20px;
+}
+.album{
+	width: 100%;
+	height:900px;
+	;
+	margin-top: 50px;
+}
+.box-a1{
+	;
+	width: 50%;
+	height: 400px;
+	float: left;
+}
+.box-a2{
+	 ;
+	width: 19%;
+	height: 400px;
+	float: right;
+	margin-right: 4%
+}
+.box-a3{
+	 ;
+	width: 19%;
+	height: 400px;
+	float: right;
+	margin-right: 4%
+}
+.box-a4{
+	;
+	width: 42%;
+	height: 400px;
+	float: right;
+	margin-top: 4%;
+	margin-right: 4%;
+}
+.box-a5{
+	 ;
+	width: 21%;
+	height: 400px;
+	float: right;
+	margin-right: 4%;
+	margin-top: 4%;
+	
+}
+.box-a6{
+	 ;
+	width: 21%;
+	height: 400px;
+	float: right;
+	margin-right: 4%;
+	margin-top: 4%;
+}
+.box-2{
+	width: 100%;
+	height: 70%;
+	background: url("img/Hinh-nen-One-Piece-2.jpg");
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+.box-3{
+	width: 100%;
+	height: 70%;
+	background: url("img/Hinh-nen-One-Piece-1.jpg");
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+.healine-3{
+	text-align: center
+}
+.box-11{
+	width: 100%;
+	height: 70%;
+	background: url( "img/Hinh-nen-One-Piece-3.jpg");
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+.box-4{
+	width: 100%;
+	height: 70%;
+	background: url( "img/giải cứu ng cá.jpg");
+	
+}
+.box-5{
+	width: 100%;
+	height: 70%;
+	background: url("img/wallpaper-onepiece_035405157.jpg");
+	background-repeat: no-repeat; 
+	background-size: cover;
+	
+}
+.box-6{
+	width: 100%;
+	height: 70%;
+	background: url("img/hinh-nen-onepiece-dep-nhat_035403139.jpg");
+	background-repeat: no-repeat; 
+	background-size: cover;
+	
+}
+.imgfooter{
+	width: 100%;
+	height: 500px;
+	background: url("img/footer.png");
+	
+	
+	
+}
+.healine-11 h2{
+	text-align: center;
+	line-height: 100px;
+}
+.healine-3 h2{
+	text-align: center;
+	line-height: 50px;
+
+}
+.healine-4 h2{
+	text-align: center;
+	line-height: 100px;
+
+}
+.healine-5 h2{
+	text-align: center;
+	line-height: 70px;
+
+}
+.healine-6 h2{
+	text-align: center;
+	line-height: 100px;
+
+}
+.healine h2{
+	text-align: center;
+	line-height: 100px;
+
+}
+.video{
+	width: 100%;
+	height: 500px;
+	background: #A01618;
+	
+}
+.video{border:1px solid black;}
+.conten{
+	width: 100%;
+	height: 400px;
+	;
+	margin-top: 50px;
+}
+.text{
+	width: 60%;
+	height: 400px;
+	;
+	float: left;
+	margin-left: 40px
+}
+.icon{
+	width: 35%;
+	height: 300px;
+	background: url("img/Hinh-nen-One-Piece-6.jpg");
+	float: right;
+}
+.info{
+	text-align: center;
+	margin-top: 30px;
+	
+}
+.iteam{
+	width: 32%;
+	height: 120px;
+
+	float: right;
+	margin-top: 0px;
+	
+}
